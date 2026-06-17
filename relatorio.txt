@@ -1,0 +1,13 @@
+Relatório de Funcionários
+
+João - R$ 2800.00 - Júnior
+Maria - R$ 3100.00 - Pleno
+Carlos - R$ 3460.00 - Pleno
+Ana - R$ 2650.00 - Júnior
+Pedro - R$ 4000.00 - Sênior
+
+Folha total: R$ 16010.00
+Maior salário: R$ 4000.00
+Menor salário: R$ 2650.00
+Média salarial: R$ 3202.00
+Classificações: {"Júnior":2,"Pleno":2,"Sênior":1}
